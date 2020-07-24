@@ -25,8 +25,10 @@ figure{
     background-color: #F2EDED;
     border: 1px solid #cccccc;
     text-align: center;
-    margin-left: 15px;
-    display: inline-block;
+    
+    
+    
+    
 }
 figcaption{
     font-style: italic;
@@ -37,9 +39,10 @@ p{
     text-indent: 15px;
 }
 #centro-distribuição{
-    margin-left: aulo;
+    margin-left: auto;
     margin-right: auto;
-    width: 550px;
+    
+    
     
 
 }
